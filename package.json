@@ -33,7 +33,8 @@
   ],
   "main": "./lib",
   "dependencies": {
-    "async": "*"
+    "async": "*",
+    "boom": "^3.0.0"
   },
   "devDependencies": {
     "body-parser": "*",
